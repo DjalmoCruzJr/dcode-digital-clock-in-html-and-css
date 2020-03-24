@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+body > h1:first-child {
+  font-size: 1.5em;
+  width: 100vw;
+  color: darkcyan;
+  padding-bottom: 5px;
+  border-bottom: 2px solid darkcyan;
+}
+
+.clock {
+  margin: 20px auto;
+  width: 300px;
+  border-radius: 5px;
+  height: 100px;
+  background-color: #000000;
+  color: darkgreen;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2em;
+}
