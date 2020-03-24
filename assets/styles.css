@@ -10,6 +10,7 @@ body {
 
 body > h1:first-child {
   font-size: 1.5em;
+  text-align: center;
   width: 100vw;
   color: darkcyan;
   padding-bottom: 5px;
